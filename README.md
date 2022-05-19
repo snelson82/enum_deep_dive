@@ -104,7 +104,7 @@ iex> Enum.frequencies(my_list)
 
 ## [Reduce...everywhere?!?](https://github.com/elixir-lang/elixir/blob/v1.13.4/lib/elixir/lib/enum.ex)
 
-![reduce_all_the_things]("enum_all_the_things.jpg")
+![reduce_all_the_things](enum_all_the_things.jpg)
 
 The following Enum functions use reduce under the hood 🔧 (53/112)
 
