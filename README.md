@@ -106,6 +106,8 @@ iex> Enum.frequencies(my_list)
 
 ![reduce_all_the_things](enum_all_the_things.jpg)
 
+![reduce_always_has_been](reduce_always_has_been.jpg)
+
 The following Enum functions use reduce under the hood 🔧 (53/112)
 
 1. `all?`
