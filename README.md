@@ -24,7 +24,7 @@
 - Return a map
 - Loop over each element in list
 - Add letter key to map if it doesn't exist
-- If letter exists, increment the its value
+- If letter exists, increment its value
 
 ## Options?
 
